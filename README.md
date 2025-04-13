@@ -1,8 +1,7 @@
 
 # Algoritmo para encontrar caminho hamiltoniano
 
-📚 Disciplina: Fundamentos de Projeto e Análise de Algoritmos
-👨‍💻 Autor: Maisa Pires de Andrade
+Por: Maisa Pires de Andrade
 
 ## Descrição do projeto
 
