@@ -1,8 +1,8 @@
 
-# algoritmo para encontrar caminho hamiltoniano
+# Algoritmo para encontrar caminho hamiltoniano
 
-📚 Aisciplina: Fundamentos de Projeto e Análise de Algoritmos
-👨‍💻 autor: Maisa Pires de Andrade
+📚 Disciplina: Fundamentos de Projeto e Análise de Algoritmos
+👨‍💻 Autor: Maisa Pires de Andrade
 
 ## Descrição do projeto
 
